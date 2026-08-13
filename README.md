@@ -10,6 +10,8 @@
 benign from digitized fine needle aspirate (FNA) measurements, using the
 Wisconsin Diagnostic Breast Cancer (WDBC) dataset.**
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://breast-cancer-diagnostic-classifier.streamlit.app/)
+
 </div>
 
 <br>
@@ -82,7 +84,7 @@ clinical-grade performance.
 
 ## Live Demo
 
-🔗 Live demo: _coming soon_
+🔗 **Try it live: [breast-cancer-diagnostic-classifier.streamlit.app](https://breast-cancer-diagnostic-classifier.streamlit.app/)**
 
 <br>
 
