@@ -8,3 +8,10 @@ backgroundColor = "#FFFFFF"
 secondaryBackgroundColor = "#F5F0FE"
 textColor = "#211B2E"
 linkColor = "#7C3AED"
+
+[theme.dark]
+primaryColor = "#7C3AED"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#241B35"
+textColor = "#F5F0FE"
+linkColor = "#7C3AED"
