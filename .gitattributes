@@ -1,0 +1,4 @@
+# Exclude notebooks from GitHub's language statistics — their JSON
+# structure (cell metadata, outputs) otherwise dominates the language bar
+# over the actual Python source in train.py/app.py.
+*.ipynb linguist-generated=true
